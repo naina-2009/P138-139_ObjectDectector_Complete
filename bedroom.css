@@ -1,0 +1,33 @@
+.heading
+{
+    font-family: Inspiration;
+    font-size: 50px;
+    color: white;
+    box-shadow: 2px 4px 3px white;
+}
+
+a
+{
+    font-family: Montserrat;
+    font-size: 20px !important;
+    letter-spacing: 1px;
+    font-weight: bold !important;
+    color: white;
+    background: linear-gradient(yellow, maroon, red) !important;
+}
+
+#status, #no_of_objects
+{
+    font-family: Yeon Sung;
+    font-size: 19px !important;
+    font-weight: bold !important;
+    background: linear-gradient(yellow, yellowgreen, lightgreen, green, darkgreen);
+    color: white;
+}
+
+canvas
+{
+    box-shadow: 4px 4px 4px gray;
+    margin-top: 200px;
+    padding: 20px;
+}

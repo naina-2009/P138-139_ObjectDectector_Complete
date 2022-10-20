@@ -1,0 +1,43 @@
+.heading
+{
+    font-family: Inspiration;
+    font-size: 65px;
+    color: white;
+    box-shadow: 4px 5px 6px white;
+}
+
+.heading:hover
+{
+    color: wheat;
+    box-shadow: 2px 2px 2px wheat;
+}
+
+#status
+{
+    background: red;
+    color: white;
+    font-family: Josefin Slab;
+    font-size: 18px;
+    font-weight:bold;
+}
+
+.copyright_footer
+{
+    font-family: Mali;
+    font-size: 18px;
+    color: white;
+    bottom: 0;
+}
+
+a
+{
+    font-family: Rubik Puddles;
+    font-size: 30px !important;
+    color: white;
+    background-color: #360c2a;
+}
+
+a:hover
+{
+    color: wheat !important;
+}
